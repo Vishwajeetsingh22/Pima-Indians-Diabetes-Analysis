@@ -1,5 +1,5 @@
 Pima Indians Diabetes Analysis
-📌 Project Overview
+Project Overview
 
 The Pima Indians Diabetes Analysis project is a Machine Learning application that predicts whether a patient is likely to have diabetes based on medical diagnostic measurements. The project uses the Pima Indians Diabetes Dataset and applies data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and performance evaluation to build an accurate predictive model.
 
