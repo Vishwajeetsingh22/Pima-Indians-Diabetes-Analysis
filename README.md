@@ -3,6 +3,13 @@
 An end-to-end machine learning project that predicts whether a patient
 has diabetes based on diagnostic health measurements, using the classic
 **Pima Indians Diabetes Dataset**.
+## Internship Information
+
+This project was completed as part of the **Machine Learning Internship** offered by **CodTech IT Solutions Private Limited**.
+
+- **Intern ID:** CITS2321
+- **Task:** Task-1 – Pima Indians Diabetes Analysis
+- **Submitted by:** Vishwajeet Singh
 
 ## 📁 Project Structure
 
